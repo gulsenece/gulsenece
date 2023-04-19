@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Star Tracker and Gyroscope Attitude Determination 
-- 🌱 I’m currently learning Java and Pyhton
+- 🌱 I’m currently learning Java and Python
 - 🤔 I’m looking for help with adapting the kalman filter algorithm to attitude determination
 - 💬 Ask me about everything you want
 - 📫 How to reach me: ecekilsedar98@gmail.com
