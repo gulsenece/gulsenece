@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+-  I'm a Student 👨‍🎓, Full Time Learner 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on Star Tracker and Gyroscope Attitude Determination 
 - 🌱 I’m currently learning Java and Python
 - 🤔 I’m looking for help with adapting the kalman filter algorithm to attitude determination
