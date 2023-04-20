@@ -21,6 +21,10 @@
 <br />
 <br />
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciAdi&layout=compact&langs_count=16&theme=react"/>
+ </div>
+</p>
+  
 ### GitHub Analytics 📊
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gulsenece&show_icons=true&theme=radical)
 
