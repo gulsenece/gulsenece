@@ -24,10 +24,11 @@
 <p align="center">
 <a href="https://github.com/gulsenece">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gulsenece&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenece&layout=compact&langs_count=16&theme=react"/>
- </div>
-</p>
+
   
 ### GitHub Analytics 📊
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gulsenece&show_icons=true&theme=radical)
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenece&layout=compact&langs_count=16&theme=react"/>
+ </div>
+</p>
 
