@@ -10,25 +10,25 @@
 
 <br />
 <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
-<p align="left"> 
+<p align="center"> 
   
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />](https://medium.com/@gulsenece)
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/g%C3%BCl%C5%9Fen-ece-kilsedar-b34b03184/)
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/gekengineer/)            
                       
-
-<br />
 <br />
 <br />
 
-<p align="center">
-<a href="https://github.com/gulsenece">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gulsenece&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
+<h2 align="center"> GitHub Analytics 📊 </h2>
+<br />
 
-  
-### GitHub Analytics 📊
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=gulsenece&show_icons=true&theme=radical)
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenece&layout=compact&langs_count=16&theme=react"/>
- </div>
+<br />
+<br />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenece&layout=compact&langs_count=16&theme=react"/>
+</div>
 </p>
+
+
 
