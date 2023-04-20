@@ -22,14 +22,11 @@
 <h2 align="center"> GitHub Analytics 📊 </h2>
 <br />
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=gulsenece&show_icons=true&theme=radical)
+<img alt="github stats" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gulsenece&theme=radical&show_icons=ture" />
 
 <br />
 <br />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenece&layout=compact&langs_count=16&theme=react"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsenece&layout=compact)](https://github.com/gulsenece/github-readme-stats)
 </div>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gulsenece=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
