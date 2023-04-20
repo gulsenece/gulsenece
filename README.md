@@ -9,7 +9,7 @@
 - 📫 How to reach me: ecekilsedar98@gmail.com
 
 <br />
-<h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
+<h2 align="center">🤝Social Media Accounts </h2>
 <p align="center"> 
   
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />](https://medium.com/@gulsenece)
